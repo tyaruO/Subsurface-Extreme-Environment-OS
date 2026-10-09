@@ -1,4 +1,4 @@
-
+宇宙OS
 実験
 # SPDX-License-Identifier: MIT
 # Copyright (c) 2026 tyaruO / AI-Acoustic-Cellular-Protection
